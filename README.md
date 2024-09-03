@@ -29,4 +29,3 @@
 - Twitter: [https://twitter.com/Pytlicek](https://twitter.com/Pytlicek)
 - GitHub: [https://github.com/Pytlicek](https://github.com/Pytlicek)
 - LinkedIn: [https://www.linkedin.com/in/tomas-pytel/](https://www.linkedin.com/in/tomas-pytel/)
-- Buy me a coffee: [https://ko-fi.com/pytlicek](https://ko-fi.com/pytlicek)
